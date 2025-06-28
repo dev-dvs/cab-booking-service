@@ -6,10 +6,14 @@ Implement a cab booking application. Below are the expected features from the sy
 
 # Features:
 The application allows users to book rides on a route.
+
 Users can register themself and make changes to their details.
+
 Driving partner can onboard on the system with the vehicle details
+
 Users can search and select one from multiple available rides on a route with the same source and destination based on the nearest to the user
-Requirements:
+
+# Requirements:
 Application should allow user onboarding.
 add_user(user_detail)
 Add basic user details
